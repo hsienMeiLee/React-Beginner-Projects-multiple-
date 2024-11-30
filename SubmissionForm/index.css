@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #f3f3f3;
+  text-align: center;
+}
+
+fieldset{
+  border: none;
+  pad: 1rem;
+}
+
+.App{
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: 10px 20px;
+  transition: transform 0.2s;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+h1{
+  font-size: x-large;
+  text-align: center;
+}
+
+input, select{
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+input[type="radio"], input[type="checkbox"]{
+  display: inline;
+  width: 10%;
+}
+
+label{
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: #555;
+  font-weight: bold;
+}
+
+button{
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 15px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+}
+
+textarea{
+  resize: none;
+  width: 100%;
+  padding: 10px;
+}
