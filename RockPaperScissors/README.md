@@ -6,3 +6,6 @@ You have to install other related dependencies to react. Follow the instructions
 Click here - https://tailwindcss.com/docs/guides/create-react-app
 
 Enjoy
+
+![Alt Text](rock-paper-scissors-game-preview.png)
+![Alt Text](rock-paper-scissors-game-preview-1.png)
