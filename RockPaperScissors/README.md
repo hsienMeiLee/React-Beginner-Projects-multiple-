@@ -8,4 +8,4 @@ Click here - https://tailwindcss.com/docs/guides/create-react-app
 Enjoy
 
 ![Alt Text](rock-paper-scissors-game-preview.png)
-![Alt Text](rock-paper-scissors-game-preview-1.png)
+![Alt Text](rock-paper-scissors-preview-1.png)
