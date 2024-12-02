@@ -16,5 +16,5 @@ Enjoy !
 Two png files are uploaded for preview.
 
 ![Alt Text](ColorContainer-preview-1.png)
-![Alt Text](ColorContainer-preciew-2.png)
+![Alt Text](ColorContainer-preview-2.png)
 
