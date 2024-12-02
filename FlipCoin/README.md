@@ -11,3 +11,6 @@ Wrap the FlipCoin.js file in the App.js. and import Coin.js in FlipCoin.js. Beaw
 Enjoy !
 
 Two png files are uploaded for preview.
+
+![Alt Text](flipCoin-preview-1.png)
+![Alt Text](flipCoin-preview-2.png)
