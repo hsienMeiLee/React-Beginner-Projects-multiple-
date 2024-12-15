@@ -11,3 +11,6 @@ Wrap the QRCodeGenerator.js file in the App.js. Be aware of file structure file 
 Enjoy !
 
 Two png files are uploaded for preview.
+
+![Alt Text](qrcodeGenerator.png)
+![Alt Text](qrcodeGenerator2.png)
