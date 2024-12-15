@@ -12,3 +12,5 @@ Wrap the Avatar.js file in the App.js. Be aware of file structure file importing
 Enjoy !
 
 Two png files are uploaded for preview.
+![Alt Text](avatarGeneratorPreview.png)
+![Alt Text](avatarGeneratorPreview2.png)
