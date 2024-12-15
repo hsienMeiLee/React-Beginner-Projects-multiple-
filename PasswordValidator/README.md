@@ -12,3 +12,6 @@ Wrap the PasswordValidator.js file in the App.js. Be aware of file structure fil
 Enjoy !
 
 Two png files are uploaded for preview.
+
+![Alt Text](passwordValidator.png)
+![Alt Text](passwordValidator2.png)
