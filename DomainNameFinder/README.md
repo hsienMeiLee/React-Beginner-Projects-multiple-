@@ -12,3 +12,6 @@ Wrap the DomainNameFinder.js in App.js. Be aware of file structure file importin
 Enjoy !
 
 Two png files are uploaded for preview.
+
+![Alt Text](domainNameFinderPreview.png)
+![Alt Text](domainNameFinderPreview2.png)
